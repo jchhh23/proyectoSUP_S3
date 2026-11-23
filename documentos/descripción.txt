@@ -1,0 +1,3 @@
+Nombre: Jackson Carpio
+Curso: 3°D
+Descripción: Lo que hace este programa es dar la bienvenida al programa, te pide tu nombre, curso y lenguaje de programación favorito. Guarda esos datos e imprime un mensaje personalizado usando lo que se guardo en las variables. Si el usuario no coloca nada, se le pide que ingrese datos y el programa sale de la condición.
